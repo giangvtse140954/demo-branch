@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text2
+=======
+text
+>>>>>>> 3ecc0db5cf39bf6c9c1ae92f2f80bab889c5734d
